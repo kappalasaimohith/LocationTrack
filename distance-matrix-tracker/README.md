@@ -23,7 +23,7 @@ A simple React application that fetches and displays distance information betwee
    cd LocationTrack
    ```
 
-2. **Install dependencies for both projects**:
+2. **Install dependencies**:
    Navigate to the `distance-matrix-tracker` folder and install dependencies:
    ```bash
    cd distance-matrix-tracker

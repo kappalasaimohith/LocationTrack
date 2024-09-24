@@ -18,11 +18,13 @@ A simple React application that fetches and displays distance information betwee
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/kappalasaimohith/LocationTrack.git
-   cd distancetracking
+   cd LocationTrack
    ```
 
 2. **Install dependencies**:
+   Navigate to the `distancetracking` folder and install dependencies:
    ```bash
+   cd distancetracking
    npm install
    ```
 
